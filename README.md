@@ -1,9 +1,9 @@
 ### Hi there, my name is Bruno Passos and here you can find some information about me.
 
-- 🔭 I’m currently working on my skills a Devloper and looking for a new job as a Front-end Developer or Mobal Developer.
+- 🔭 I’m currently working on my skills as a Front-end Developer and looking for a new job.
 - 🎯 I have some fluency in JavaScript, HTML, CSS, GIT, React and Redux. Please, check my repositories.
 - 🌱 I’m currently learning Angular | React Native.
-- 📫 How to reach me: brunopassos_bp@hotmail.com.
+- 📫 How to reach me: brunopassos_bp@hotmail.com or +55 27-99229-4565.
 - ⚡ Fun fact: My dog's name is Danger, but, he is not dangerous.
 
 
