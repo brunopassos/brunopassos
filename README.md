@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my skills a Devloper and looking for a new job as a Front-end Developer or Mobal Developer.
 - 🎯 I have some fluency in JavaScript, HTML, CSS, GIT, React and Redux. Please, check my repositories.
-- 🌱 I’m currently learning Angular | React Native | Kotlin.
+- 🌱 I’m currently learning Angular | React Native.
 - 📫 How to reach me: brunopassos_bp@hotmail.com.
 - ⚡ Fun fact: My dog's name is Danger, but, he is not dangerous.
 
