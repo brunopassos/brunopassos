@@ -1,7 +1,7 @@
 ### Hi there, my name is Bruno Passos and here you can find some information about me.
 
-- 🔭 I’m currently working on my skills as a Mobile Developer and looking for a new job.
-- 🎯 I have some fluency with React Native, TypeScript, JavaScript, HTML, CSS, GIT, React, Redux, Node.js, Express, PostgreSQL and Docker. Please, check my repositories.
+- 🔭 I’m currently working on my skills as a Full Stack Developer.
+- 🎯 I have some fluency with Next.Js, React Native, TypeScript, Node.js, PostgreSQL and Docker. Please, check my repositories.
 - 📫 How to reach me: brunopassos_bp@hotmail.com or +55 27-99229-4565.
 - ⚡ Fun fact: My dog's name is Danger, but, he is not dangerous.
 
