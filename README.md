@@ -1,9 +1,32 @@
-### Hi there, my name is Bruno Passos and here you can find some information about me.
+Desenvolvedor de Software com 14 anos de experiência na área de TI dos quais +3 anos foram
+focados no desenvolvimento de projetos Web e Mobile.
 
-- 🔭 I’m currently working on my skills as a Full Stack Developer.
-- 🎯 I have some fluency with Next.Js, React Native, TypeScript, Node.js, PostgreSQL and Docker. Please, check my repositories.
-- 📫 How to reach me: brunopassos_bp@hotmail.com or +55 27-99229-4565.
-- ⚡ Fun fact: My dog's name is Danger, but, he is not dangerous.
+Principais tecnologias incluem TypeScript, JavaScript, Node.js, Express.js, PostgreSQL, Jest,
+Prisma e Docker, além de conhecimento relevante com React Native e React.js.
+
+Trabalhando atualmente como Desenvolvedor Full-stack na Syno Companhia Digital
+LTDA desenvolvendo softwares para revendedores autorizados da Heineken Brasil.
+
+Em relação a soft skills, geralmente descrito por colegas de trabalho como um profissional
+bastante esforçado que busca continuamente conhecimento, está aberto a sugestões para
+melhoria, com uma comunicação assertiva e possui grande facilidade em trabalhar em equipe.
+
+Realizações notáveis:
+
+- Aumentei a receita da empresa ao permitir o uso da aplicação por mais de uma revenda. Para isso, reestruturei o back-end em Node.js e TypeScript e ajustei todas as queries que acessam o
+banco de dados Postgres. Com essas mudanças, a empresa pôde vender mais de um software
+para os clientes.
+
+- Otimizei o fluxo de pedidos permitindo que cada revenda tivesse a sua propria fila de pedidos
+por meio a implementação de um novo fluxo de gerenciamento com BullMQ e Redis.
+
+- Aumentei em 32% as vendas e em mais de 80% o ganho de tempo do time comercial através
+do desenvolvimento de uma aplicação web de televendas com Node.js, TypeScript, Prisma,
+Postgres, Express.js e Next.js.
+
+- Reduzi a quantidade de papel gasto e o tempo com a manutenção e criação de planilhas, todas
+as informações foram organizadas para que o agente tenha acesso fácil e rápido aos dados do
+cliente e aos produtos para realizar as vendas.
 
 
 ##
